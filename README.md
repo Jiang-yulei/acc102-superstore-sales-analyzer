@@ -36,7 +36,7 @@
 4. Run `ACC102 Superstore Sales Analyzer.ipynb` (Jupyter Notebook) – all cells will produce 7 charts and printed insights.
 
 ## 6. Demo Video
-[Click here for the demo video](https://www.capcut.cn/share/7633030934912259352?t=1) 
+[Click here for the demo video](https://video.xjtlu.edu.cn/Mediasite/Play/788333d7985e461289b1d7b15f6a7e451d) 
 
 ## 7. Limitations & Next Steps
 - No cost per unit → cannot calculate profit margin.  
